@@ -1,0 +1,1 @@
+chrome-extension://hhhbnnlkhiajhlfmedeifcniniopfaoo/images/inject/stop.svg
